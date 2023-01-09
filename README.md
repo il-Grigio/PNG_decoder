@@ -2,7 +2,7 @@
 experiments with compressing and decompressing a png file
 
 
-
+NOT FINISHED!!!
 ---
 for the C to work:
 
